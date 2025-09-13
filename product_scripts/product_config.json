@@ -75,6 +75,19 @@
       "status": ["Премиальный клиент", "Зарплатный клиент"]
     }
   },
+  "credit_card": {
+    "sources": {
+      "clients": ["client_code", "age", "status", "avg_monthly_balance_KZT"],
+      "all_transfers": ["date", "type", "direction", "amount", "currency"],
+      "all_transactions": ["date", "category", "amount", "currency"]
+    },
+    "filters": {
+      "category": ["Едим дома", "Смотрим дома", "Играем дома", "Продукты питания", "Одежда и обувь", "Кафе и рестораны", "АЗС", "Медицина", "Спорт"],
+      "type": ["installment_payment_out", "cc_repayment_out", "card_out", "p2p_out", "utilities_out"],
+      "status": ["Зарплатный клиент", "Стандартный клиент", "Студент"],
+      "currency": ["KZT"]
+    }
+  },
   
  "travel_card": {
     "sources": {
