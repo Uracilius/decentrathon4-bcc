@@ -70,10 +70,9 @@
       "all_transactions": ["date", "category", "amount", "currency"]
     },
     "filters": {
-      "category": ["Ювелирные украшения", "Косметика и Парфюмерия", "Кафе и рестораны", "Спа и массаж", "Подарки", "Цветы"],
-      "type": ["atm_withdrawal", "p2p_out", "deposit_topup_out", "deposit_fx_topup_out", "salary_in", "card_out"],
-      "status": ["Премиальный клиент"],
-      "currency": ["KZT", "USD", "EUR"]
+      "category": ["Ювелирные украшения", "Косметика и Парфюмерия", "Кафе и рестораны", "Спа и массаж", "Подарки", "Цветы", "Продукты питания", "Одежда и обувь"],
+      "type": ["atm_withdrawal", "p2p_out", "deposit_topup_out", "deposit_fx_topup_out", "salary_in", "card_out", "card_in", "cashback_in", "refund_in"],
+      "status": ["Премиальный клиент", "Зарплатный клиент"]
     }
   },
   
