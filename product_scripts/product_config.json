@@ -75,5 +75,18 @@
       "status": ["Премиальный клиент"],
       "currency": ["KZT", "USD", "EUR"]
     }
+  },
+  
+ "travel_card": {
+    "sources": {
+      "clients": ["client_code", "age", "status", "avg_monthly_balance_KZT"],
+      "all_transfers": ["date", "type", "direction", "amount", "currency"],
+      "all_transactions": ["date", "category", "amount", "currency"]
+    },
+    "filters": {
+      "category": ["Путешествия", "Отели", "Такси", "Кафе и рестораны", "Развлечения", "АЗС"],
+      "type": ["fx_buy", "fx_sell", "card_out", "card_in", "atm_withdrawal", "p2p_out"],
+      "status": ["Премиальный клиент", "Зарплатный клиент", "Стандартный клиент"]
+    }
   }
 }
