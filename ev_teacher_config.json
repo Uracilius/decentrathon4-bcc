@@ -1,0 +1,71 @@
+{
+  "products": [
+    "Карта для путешествий",
+    "Премиальная карта",
+    "Кредитная карта",
+    "Обмен валют",
+    "Кредит наличными",
+    "Депозит Мультивалютный",
+    "Депозит Сберегательный",
+    "Депозит Накопительный",
+    "Инвестиции",
+    "Золотые слитки"
+  ],
+  "config": {
+    "travel_cb_rate": 0.04,
+    "premium_base_thresholds": [
+      [
+        6000000,
+        0.04
+      ],
+      [
+        1000000,
+        0.03
+      ],
+      [
+        0,
+        0.02
+      ]
+    ],
+    "premium_boost_rate": 0.04,
+    "premium_monthly_cap": 100000,
+    "credit_card_rate": 0.1,
+    "fx_saving_rate": 0.003,
+    "dep_rates": {
+      "Депозит Сберегательный": 0.165,
+      "Депозит Накопительный": 0.155,
+      "Депозит Мультивалютный": 0.145
+    },
+    "invest_saving_rate": 0.002,
+    "gold_saving_rate": 0.001,
+    "dep_penalties": {
+      "Депозит Сберегательный": 0.3,
+      "Депозит Накопительный": 0.5,
+      "Депозит Мультивалютный": 0.7
+    },
+    "loan_ev_base": 1.0,
+    "loan_need": {
+      "low_balance_threshold": 300000,
+      "outflow_multiplier": 1.1
+    }
+  },
+  "notes": [
+    "EV are 3-month expected gains (cashback/interest/savings).",
+    "Deposit EVs are gated by behavioral signals via penalties (see dep_penalties).",
+    "Loan EV is tiny unless liquidity stress signals are present.",
+    "Gold EV is conservative and only activates with gold turnover in transfers."
+  ],
+  "inputs_expected": [
+    "avg_monthly_balance_KZT",
+    "spending_total_3m",
+    "income_total_3m",
+    "n_months",
+    "withdrawals_to_spend_ratio",
+    "trf_*",
+    "trs_*"
+  ],
+  "columns_optional": [
+    "trf_gold_buy_out",
+    "trf_gold_sell_in"
+  ]
+}

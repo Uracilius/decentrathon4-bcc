@@ -1,0 +1,44 @@
+column,n_negative
+age,0
+avg_monthly_balance_KZT,0
+income_total,0
+spending_total,0
+trf_atm_withdrawal,0
+trf_card_in,0
+trf_card_out,0
+trf_cashback_in,0
+trf_cc_repayment_out,0
+trf_deposit_topup_out,0
+trf_family_in,0
+trf_fx_buy,0
+trf_fx_sell,0
+trf_gold_buy_out,0
+trf_gold_sell_in,0
+trf_installment_payment_out,0
+trf_invest_in,0
+trf_invest_out,0
+trf_loan_payment_out,0
+trf_p2p_out,0
+trf_refund_in,0
+trf_salary_in,0
+trf_stipend_in,0
+trf_utilities_out,0
+trs_АЗС,0
+trs_Авто,0
+trs_Едим дома,0
+trs_Играем дома,0
+trs_Кафе и рестораны,0
+trs_Кино,0
+trs_Косметика и Парфюмерия,0
+trs_Мебель,0
+trs_Одежда и обувь,0
+trs_Отели,0
+trs_Подарки,0
+trs_Продукты питания,0
+trs_Путешествия,0
+trs_Развлечения,0
+trs_Ремонт дома,0
+trs_Смотрим дома,0
+trs_Спорт,0
+trs_Такси,0
+trs_Ювелирные украшения,0
