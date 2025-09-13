@@ -1,0 +1,6 @@
+name,predicted_suitable,predicted_probability,predicted_score,recommendation,business_logic_score,business_logic_suitable
+High Traveler,1,0.59,0.3613416666666667,Low Priority,0.9999999999999999,1
+Moderate Traveler,1,0.59,0.358675,Low Priority,0.65,1
+Business Traveler,1,0.59,0.3963416666666666,Low Priority,0.9999999999999999,1
+Non-Traveler,0,0.36,0.27067499999999983,No Offer,0.0,0
+Occasional Traveler,0,0.49,0.3396749999999999,Low Priority,0.35000000000000003,0
