@@ -1,0 +1,79 @@
+{
+  "deposit_multicurrency": {
+    "sources": {
+      "clients": ["client_code", "age", "status", "avg_monthly_balance_KZT"],
+      "all_transfers": ["date", "type", "direction", "amount", "currency"],
+      "all_transactions": ["date", "category", "amount", "currency"]
+    },
+    "filters": {
+      "type": ["fx_buy", "fx_sell", "deposit_fx_topup_out", "deposit_fx_withdraw_in", "card_in", "card_out", "atm_withdrawal", "p2p_out"],
+      "category": ["Путешествия", "Отели", "Такси", "Кафе и рестораны", "Развлечения", "Продукты питания", "Одежда и обувь"]
+    }
+  },
+  
+  "deposit_savings": {
+    "sources": {
+      "clients": ["client_code", "age", "status", "avg_monthly_balance_KZT"],
+      "all_transfers": ["date", "type", "direction", "amount", "currency"],
+      "all_transactions": ["date", "category", "amount", "currency"]
+    },
+    "filters": {
+      "type": ["salary_in", "card_out", "atm_withdrawal", "p2p_out", "utilities_out", "deposit_topup_out"],
+      "category": ["Продукты питания", "АЗС", "Медицина", "Едим дома", "Ремонт дома"],
+      "status": ["Премиальный клиент", "Зарплатный клиент", "Стандартный клиент"]
+    }
+  },
+  
+  "deposit_accumulative": {
+    "sources": {
+      "clients": ["client_code", "age", "status", "avg_monthly_balance_KZT"],
+      "all_transfers": ["date", "type", "direction", "amount", "currency"],
+      "all_transactions": ["date", "category", "amount", "currency"]
+    },
+    "filters": {
+      "type": ["salary_in", "stipend_in", "family_in", "deposit_topup_out", "card_in", "cashback_in", "refund_in"],
+      "category": ["Продукты питания", "Кафе и рестораны", "Одежда и обувь", "Спорт", "Книги", "Косметика и Парфюмерия"],
+      "status": ["Студент", "Зарплатный клиент", "Стандартный клиент"]
+    }
+  },
+  
+  "investments": {
+    "sources": {
+      "clients": ["client_code", "age", "status", "avg_monthly_balance_KZT"],
+      "all_transfers": ["date", "type", "direction", "amount", "currency"],
+      "all_transactions": ["date", "category", "amount", "currency"]
+    },
+    "filters": {
+      "type": ["invest_out", "invest_in", "salary_in", "cashback_in", "deposit_topup_out", "deposit_fx_topup_out", "card_in"],
+      "category": ["Книги", "Развлечения", "Путешествия", "Кафе и рестораны", "Смотрим дома", "Играем дома"],
+      "status": ["Премиальный клиент", "Зарплатный клиент"]
+    }
+  },
+  
+  "gold_bars": {
+    "sources": {
+      "clients": ["client_code", "age", "status", "avg_monthly_balance_KZT"],
+      "all_transfers": ["date", "type", "direction", "amount", "currency"],
+      "all_transactions": ["date", "category", "amount", "currency"]
+    },
+    "filters": {
+      "type": ["gold_buy_out", "gold_sell_in", "salary_in", "invest_in", "invest_out", "deposit_fx_withdraw_in", "deposit_fx_topup_out", "card_in", "card_out"],
+      "category": ["Ювелирные украшения", "Подарки", "Путешествия", "Отели", "Спа и массаж", "Цветы", "Кафе и рестораны"],
+      "status": ["Премиальный клиент"]
+    }
+  },
+
+  "premium_card": {
+    "sources": {
+      "clients": ["client_code", "age", "status", "avg_monthly_balance_KZT"],
+      "all_transfers": ["date", "type", "direction", "amount", "currency"],
+      "all_transactions": ["date", "category", "amount", "currency"]
+    },
+    "filters": {
+      "category": ["Ювелирные украшения", "Косметика и Парфюмерия", "Кафе и рестораны", "Спа и массаж", "Подарки", "Цветы"],
+      "type": ["atm_withdrawal", "p2p_out", "deposit_topup_out", "deposit_fx_topup_out", "salary_in", "card_out"],
+      "status": ["Премиальный клиент"],
+      "currency": ["KZT", "USD", "EUR"]
+    }
+  }
+}
