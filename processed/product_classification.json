@@ -16,7 +16,11 @@
       "atm_withdrawal": 617947,
       "loan_payment_out": 508010
     },
-    "avg_monthly_balance": 92643
+    "avg_monthly_balance": 92643,
+    "name": "Айгерим",
+    "age": 29,
+    "status": "Зарплатный клиент",
+    "city": "Алматы"
   },
   {
     "client_code": 2,
@@ -35,7 +39,11 @@
       "atm_withdrawal": 775789,
       "loan_payment_out": 505633
     },
-    "avg_monthly_balance": 1577073
+    "avg_monthly_balance": 1577073,
+    "name": "Данияр",
+    "age": 41,
+    "status": "Премиальный клиент",
+    "city": "Астана"
   },
   {
     "client_code": 3,
@@ -54,7 +62,11 @@
       "p2p_out": 496377,
       "utilities_out": 395641
     },
-    "avg_monthly_balance": 63116
+    "avg_monthly_balance": 63116,
+    "name": "Сабина",
+    "age": 22,
+    "status": "Студент",
+    "city": "Алматы"
   },
   {
     "client_code": 4,
@@ -73,7 +85,11 @@
       "atm_withdrawal": 634756,
       "loan_payment_out": 531517
     },
-    "avg_monthly_balance": 83351
+    "avg_monthly_balance": 83351,
+    "name": "Тимур",
+    "age": 36,
+    "status": "Зарплатный клиент",
+    "city": "Караганда"
   },
   {
     "client_code": 5,
@@ -92,7 +108,11 @@
       "atm_withdrawal": 590493,
       "loan_payment_out": 548044
     },
-    "avg_monthly_balance": 1336536
+    "avg_monthly_balance": 1336536,
+    "name": "Камилла",
+    "age": 45,
+    "status": "Премиальный клиент",
+    "city": "Алматы"
   },
   {
     "client_code": 6,
@@ -111,7 +131,11 @@
       "atm_withdrawal": 629866,
       "loan_payment_out": 481454
     },
-    "avg_monthly_balance": 131929
+    "avg_monthly_balance": 131929,
+    "name": "Аян",
+    "age": 34,
+    "status": "Стандартный клиент",
+    "city": "Шымкент"
   },
   {
     "client_code": 7,
@@ -130,7 +154,11 @@
       "atm_withdrawal": 1193728,
       "loan_payment_out": 987487
     },
-    "avg_monthly_balance": 4040997
+    "avg_monthly_balance": 4040997,
+    "name": "Руслан",
+    "age": 48,
+    "status": "Премиальный клиент",
+    "city": "Алматы"
   },
   {
     "client_code": 8,
@@ -149,7 +177,11 @@
       "atm_withdrawal": 1162883,
       "loan_payment_out": 942179
     },
-    "avg_monthly_balance": 1058403
+    "avg_monthly_balance": 1058403,
+    "name": "Мадина",
+    "age": 33,
+    "status": "Зарплатный клиент",
+    "city": "Астана"
   },
   {
     "client_code": 9,
@@ -168,7 +200,11 @@
       "atm_withdrawal": 1115664,
       "loan_payment_out": 934904
     },
-    "avg_monthly_balance": 3084180
+    "avg_monthly_balance": 3084180,
+    "name": "Арман",
+    "age": 55,
+    "status": "Премиальный клиент",
+    "city": "Алматы"
   },
   {
     "client_code": 10,
@@ -187,7 +223,11 @@
       "atm_withdrawal": 1251711,
       "loan_payment_out": 789444
     },
-    "avg_monthly_balance": 1277325
+    "avg_monthly_balance": 1277325,
+    "name": "Карина",
+    "age": 38,
+    "status": "Зарплатный клиент",
+    "city": "Усть-Каменогорск"
   },
   {
     "client_code": 11,
@@ -206,7 +246,11 @@
       "atm_withdrawal": 981429,
       "loan_payment_out": 853197
     },
-    "avg_monthly_balance": 3230572
+    "avg_monthly_balance": 3230572,
+    "name": "Бауржан",
+    "age": 50,
+    "status": "Премиальный клиент",
+    "city": "Павлодар"
   },
   {
     "client_code": 12,
@@ -225,7 +269,11 @@
       "atm_withdrawal": 1318240,
       "loan_payment_out": 995748
     },
-    "avg_monthly_balance": 849046
+    "avg_monthly_balance": 849046,
+    "name": "Жанар",
+    "age": 42,
+    "status": "Зарплатный клиент",
+    "city": "Костанай"
   },
   {
     "client_code": 13,
@@ -244,7 +292,11 @@
       "atm_withdrawal": 681709,
       "loan_payment_out": 594504
     },
-    "avg_monthly_balance": 54074
+    "avg_monthly_balance": 54074,
+    "name": "Алина",
+    "age": 20,
+    "status": "Студент",
+    "city": "Алматы"
   },
   {
     "client_code": 14,
@@ -263,7 +315,11 @@
       "p2p_out": 1238723,
       "installment_payment_out": 988978
     },
-    "avg_monthly_balance": 57385
+    "avg_monthly_balance": 57385,
+    "name": "Диас",
+    "age": 27,
+    "status": "Зарплатный клиент",
+    "city": "Астана"
   },
   {
     "client_code": 15,
@@ -282,7 +338,11 @@
       "salary_in": 1269939,
       "installment_payment_out": 940757
     },
-    "avg_monthly_balance": 160778
+    "avg_monthly_balance": 160778,
+    "name": "Нурия",
+    "age": 31,
+    "status": "Стандартный клиент",
+    "city": "Шымкент"
   },
   {
     "client_code": 16,
@@ -301,7 +361,11 @@
       "atm_withdrawal": 739742,
       "loan_payment_out": 580966
     },
-    "avg_monthly_balance": 46630
+    "avg_monthly_balance": 46630,
+    "name": "Ерасыл",
+    "age": 23,
+    "status": "Студент",
+    "city": "Караганда"
   },
   {
     "client_code": 17,
@@ -320,7 +384,11 @@
       "p2p_out": 1180852,
       "installment_payment_out": 807917
     },
-    "avg_monthly_balance": 89126
+    "avg_monthly_balance": 89126,
+    "name": "Жанель",
+    "age": 30,
+    "status": "Зарплатный клиент",
+    "city": "Тараз"
   },
   {
     "client_code": 18,
@@ -339,7 +407,11 @@
       "salary_in": 1226920,
       "installment_payment_out": 795222
     },
-    "avg_monthly_balance": 98089
+    "avg_monthly_balance": 98089,
+    "name": "Санжар",
+    "age": 35,
+    "status": "Стандартный клиент",
+    "city": "Кызылорда"
   },
   {
     "client_code": 19,
@@ -358,7 +430,11 @@
       "p2p_out": 1339372,
       "salary_in": 1281364
     },
-    "avg_monthly_balance": 80150
+    "avg_monthly_balance": 80150,
+    "name": "Азамат",
+    "age": 32,
+    "status": "Зарплатный клиент",
+    "city": "Алматы"
   },
   {
     "client_code": 20,
@@ -377,7 +453,11 @@
       "fx_sell": 1336071,
       "p2p_out": 1114629
     },
-    "avg_monthly_balance": 141515
+    "avg_monthly_balance": 141515,
+    "name": "Анель",
+    "age": 28,
+    "status": "Стандартный клиент",
+    "city": "Астана"
   },
   {
     "client_code": 21,
@@ -396,7 +476,11 @@
       "salary_in": 1331908,
       "p2p_out": 1249585
     },
-    "avg_monthly_balance": 1798169
+    "avg_monthly_balance": 1798169,
+    "name": "Павел",
+    "age": 44,
+    "status": "Премиальный клиент",
+    "city": "Алматы"
   },
   {
     "client_code": 22,
@@ -415,7 +499,11 @@
       "p2p_out": 1292588,
       "salary_in": 1268163
     },
-    "avg_monthly_balance": 77474
+    "avg_monthly_balance": 77474,
+    "name": "Аружан",
+    "age": 26,
+    "status": "Зарплатный клиент",
+    "city": "Шымкент"
   },
   {
     "client_code": 23,
@@ -434,7 +522,11 @@
       "salary_in": 1309315,
       "p2p_out": 1134295
     },
-    "avg_monthly_balance": 146389
+    "avg_monthly_balance": 146389,
+    "name": "Темирлан",
+    "age": 39,
+    "status": "Стандартный клиент",
+    "city": "Павлодар"
   },
   {
     "client_code": 24,
@@ -453,7 +545,11 @@
       "p2p_out": 1367340,
       "salary_in": 1218794
     },
-    "avg_monthly_balance": 53785
+    "avg_monthly_balance": 53785,
+    "name": "Гульмира",
+    "age": 41,
+    "status": "Зарплатный клиент",
+    "city": "Усть-Каменогорск"
   },
   {
     "client_code": 25,
@@ -472,7 +568,11 @@
       "loan_payment_out": 899862,
       "atm_withdrawal": 625173
     },
-    "avg_monthly_balance": 55634
+    "avg_monthly_balance": 55634,
+    "name": "Адиль",
+    "age": 36,
+    "status": "Зарплатный клиент",
+    "city": "Алматы"
   },
   {
     "client_code": 26,
@@ -491,7 +591,11 @@
       "loan_payment_out": 829076,
       "atm_withdrawal": 657742
     },
-    "avg_monthly_balance": 136248
+    "avg_monthly_balance": 136248,
+    "name": "Маржан",
+    "age": 33,
+    "status": "Стандартный клиент",
+    "city": "Астана"
   },
   {
     "client_code": 27,
@@ -510,7 +614,11 @@
       "loan_payment_out": 910518,
       "atm_withdrawal": 735482
     },
-    "avg_monthly_balance": 70858
+    "avg_monthly_balance": 70858,
+    "name": "Нурсултан",
+    "age": 29,
+    "status": "Зарплатный клиент",
+    "city": "Караганда"
   },
   {
     "client_code": 28,
@@ -529,7 +637,11 @@
       "loan_payment_out": 944768,
       "atm_withdrawal": 602732
     },
-    "avg_monthly_balance": 150281
+    "avg_monthly_balance": 150281,
+    "name": "Алтынай",
+    "age": 42,
+    "status": "Стандартный клиент",
+    "city": "Кызылорда"
   },
   {
     "client_code": 29,
@@ -548,7 +660,11 @@
       "loan_payment_out": 837252,
       "atm_withdrawal": 598694
     },
-    "avg_monthly_balance": 88487
+    "avg_monthly_balance": 88487,
+    "name": "Сая",
+    "age": 25,
+    "status": "Зарплатный клиент",
+    "city": "Тараз"
   },
   {
     "client_code": 30,
@@ -567,7 +683,11 @@
       "loan_payment_out": 886491,
       "atm_withdrawal": 601452
     },
-    "avg_monthly_balance": 104553
+    "avg_monthly_balance": 104553,
+    "name": "Ербол",
+    "age": 40,
+    "status": "Стандартный клиент",
+    "city": "Павлодар"
   },
   {
     "client_code": 31,
@@ -586,7 +706,11 @@
       "atm_withdrawal": 811616,
       "loan_payment_out": 598234
     },
-    "avg_monthly_balance": 1303848
+    "avg_monthly_balance": 1303848,
+    "name": "Дамир",
+    "age": 34,
+    "status": "Зарплатный клиент",
+    "city": "Алматы"
   },
   {
     "client_code": 32,
@@ -605,7 +729,11 @@
       "atm_withdrawal": 733894,
       "loan_payment_out": 536185
     },
-    "avg_monthly_balance": 2317160
+    "avg_monthly_balance": 2317160,
+    "name": "Алия",
+    "age": 46,
+    "status": "Премиальный клиент",
+    "city": "Астана"
   },
   {
     "client_code": 33,
@@ -624,7 +752,11 @@
       "atm_withdrawal": 638770,
       "loan_payment_out": 505892
     },
-    "avg_monthly_balance": 824246
+    "avg_monthly_balance": 824246,
+    "name": "Мерей",
+    "age": 31,
+    "status": "Зарплатный клиент",
+    "city": "Шымкент"
   },
   {
     "client_code": 35,
@@ -643,7 +775,11 @@
       "atm_withdrawal": 671903,
       "utilities_out": 476956
     },
-    "avg_monthly_balance": 1448797
+    "avg_monthly_balance": 1448797,
+    "name": "Самат",
+    "age": 52,
+    "status": "Премиальный клиент",
+    "city": "Алматы"
   },
   {
     "client_code": 36,
@@ -662,7 +798,11 @@
       "loan_payment_out": 637234,
       "atm_withdrawal": 611012
     },
-    "avg_monthly_balance": 712277
+    "avg_monthly_balance": 712277,
+    "name": "Назым",
+    "age": 29,
+    "status": "Зарплатный клиент",
+    "city": "Усть-Каменогорск"
   },
   {
     "client_code": 37,
@@ -681,7 +821,11 @@
       "atm_withdrawal": 864660,
       "loan_payment_out": 540972
     },
-    "avg_monthly_balance": 900361
+    "avg_monthly_balance": 900361,
+    "name": "Гульнар",
+    "age": 45,
+    "status": "Зарплатный клиент",
+    "city": "Алматы"
   },
   {
     "client_code": 38,
@@ -700,7 +844,11 @@
       "atm_withdrawal": 592620,
       "utilities_out": 510397
     },
-    "avg_monthly_balance": 5818675
+    "avg_monthly_balance": 5818675,
+    "name": "Серик",
+    "age": 54,
+    "status": "Премиальный клиент",
+    "city": "Астана"
   },
   {
     "client_code": 39,
@@ -719,7 +867,11 @@
       "atm_withdrawal": 764053,
       "loan_payment_out": 555764
     },
-    "avg_monthly_balance": 1248239
+    "avg_monthly_balance": 1248239,
+    "name": "Ляззат",
+    "age": 39,
+    "status": "Зарплатный клиент",
+    "city": "Костанай"
   },
   {
     "client_code": 40,
@@ -738,7 +890,11 @@
       "loan_payment_out": 538941,
       "atm_withdrawal": 521237
     },
-    "avg_monthly_balance": 86092
+    "avg_monthly_balance": 86092,
+    "name": "Асхат",
+    "age": 43,
+    "status": "Стандартный клиент",
+    "city": "Павлодар"
   },
   {
     "client_code": 41,
@@ -757,7 +913,11 @@
       "atm_withdrawal": 682503,
       "loan_payment_out": 510113
     },
-    "avg_monthly_balance": 1164313
+    "avg_monthly_balance": 1164313,
+    "name": "Сандугаш",
+    "age": 47,
+    "status": "Зарплатный клиент",
+    "city": "Шымкент"
   },
   {
     "client_code": 42,
@@ -776,7 +936,11 @@
       "atm_withdrawal": 706734,
       "loan_payment_out": 547042
     },
-    "avg_monthly_balance": 2948028
+    "avg_monthly_balance": 2948028,
+    "name": "Рустем",
+    "age": 58,
+    "status": "Премиальный клиент",
+    "city": "Алматы"
   },
   {
     "client_code": 43,
@@ -795,7 +959,11 @@
       "deposit_topup_out": 1175431,
       "atm_withdrawal": 542619
     },
-    "avg_monthly_balance": 76320
+    "avg_monthly_balance": 76320,
+    "name": "Нуртас",
+    "age": 28,
+    "status": "Зарплатный клиент",
+    "city": "Астана"
   },
   {
     "client_code": 44,
@@ -814,7 +982,11 @@
       "salary_in": 1304860,
       "atm_withdrawal": 872369
     },
-    "avg_monthly_balance": 89846
+    "avg_monthly_balance": 89846,
+    "name": "Айнагуль",
+    "age": 35,
+    "status": "Стандартный клиент",
+    "city": "Алматы"
   },
   {
     "client_code": 45,
@@ -833,7 +1005,11 @@
       "p2p_out": 1199566,
       "atm_withdrawal": 808379
     },
-    "avg_monthly_balance": 72552
+    "avg_monthly_balance": 72552,
+    "name": "Диана",
+    "age": 27,
+    "status": "Зарплатный клиент",
+    "city": "Караганда"
   },
   {
     "client_code": 46,
@@ -852,7 +1028,11 @@
       "p2p_out": 1318813,
       "atm_withdrawal": 645086
     },
-    "avg_monthly_balance": 86024
+    "avg_monthly_balance": 86024,
+    "name": "Арсен",
+    "age": 33,
+    "status": "Стандартный клиент",
+    "city": "Кызылорда"
   },
   {
     "client_code": 47,
@@ -871,7 +1051,11 @@
       "salary_in": 1162804,
       "atm_withdrawal": 688651
     },
-    "avg_monthly_balance": 79592
+    "avg_monthly_balance": 79592,
+    "name": "Камшат",
+    "age": 30,
+    "status": "Зарплатный клиент",
+    "city": "Тараз"
   },
   {
     "client_code": 48,
@@ -890,7 +1074,11 @@
       "p2p_out": 1194176,
       "atm_withdrawal": 871402
     },
-    "avg_monthly_balance": 82214
+    "avg_monthly_balance": 82214,
+    "name": "Ержан",
+    "age": 38,
+    "status": "Стандартный клиент",
+    "city": "Павлодар"
   },
   {
     "client_code": 49,
@@ -909,7 +1097,11 @@
       "p2p_out": 1215356,
       "atm_withdrawal": 767152
     },
-    "avg_monthly_balance": 1410759
+    "avg_monthly_balance": 1410759,
+    "name": "Амина",
+    "age": 26,
+    "status": "Зарплатный клиент",
+    "city": "Алматы"
   },
   {
     "client_code": 50,
@@ -928,7 +1120,11 @@
       "p2p_out": 1179331,
       "atm_withdrawal": 654476
     },
-    "avg_monthly_balance": 3573697
+    "avg_monthly_balance": 3573697,
+    "name": "Тимурлан",
+    "age": 42,
+    "status": "Премиальный клиент",
+    "city": "Астана"
   },
   {
     "client_code": 51,
@@ -947,7 +1143,11 @@
       "p2p_out": 1150333,
       "invest_in": 995735
     },
-    "avg_monthly_balance": 1429027
+    "avg_monthly_balance": 1429027,
+    "name": "Жанат",
+    "age": 31,
+    "status": "Зарплатный клиент",
+    "city": "Шымкент"
   },
   {
     "client_code": 52,
@@ -966,7 +1166,11 @@
       "p2p_out": 1288827,
       "atm_withdrawal": 673218
     },
-    "avg_monthly_balance": 3418709
+    "avg_monthly_balance": 3418709,
+    "name": "Милана",
+    "age": 36,
+    "status": "Премиальный клиент",
+    "city": "Алматы"
   },
   {
     "client_code": 53,
@@ -985,7 +1189,11 @@
       "salary_in": 964943,
       "invest_in": 689604
     },
-    "avg_monthly_balance": 1258584
+    "avg_monthly_balance": 1258584,
+    "name": "Расул",
+    "age": 29,
+    "status": "Зарплатный клиент",
+    "city": "Караганда"
   },
   {
     "client_code": 54,
@@ -1004,7 +1212,11 @@
       "p2p_out": 1324541,
       "atm_withdrawal": 748077
     },
-    "avg_monthly_balance": 4083294
+    "avg_monthly_balance": 4083294,
+    "name": "Виктория",
+    "age": 45,
+    "status": "Премиальный клиент",
+    "city": "Усть-Каменогорск"
   },
   {
     "client_code": 55,
@@ -1023,7 +1235,11 @@
       "salary_in": 2695600,
       "p2p_out": 1366965
     },
-    "avg_monthly_balance": 3504443
+    "avg_monthly_balance": 3504443,
+    "name": "Асель",
+    "age": 49,
+    "status": "Премиальный клиент",
+    "city": "Алматы"
   },
   {
     "client_code": 56,
@@ -1042,7 +1258,11 @@
       "salary_in": 1351628,
       "p2p_out": 1350424
     },
-    "avg_monthly_balance": 60622
+    "avg_monthly_balance": 60622,
+    "name": "Нуркен",
+    "age": 44,
+    "status": "Зарплатный клиент",
+    "city": "Астана"
   },
   {
     "client_code": 57,
@@ -1061,7 +1281,11 @@
       "salary_in": 2657353,
       "p2p_out": 1116686
     },
-    "avg_monthly_balance": 2757704
+    "avg_monthly_balance": 2757704,
+    "name": "Жания",
+    "age": 52,
+    "status": "Премиальный клиент",
+    "city": "Павлодар"
   },
   {
     "client_code": 58,
@@ -1080,7 +1304,11 @@
       "salary_in": 1263173,
       "p2p_out": 1228646
     },
-    "avg_monthly_balance": 62335
+    "avg_monthly_balance": 62335,
+    "name": "Султан",
+    "age": 40,
+    "status": "Зарплатный клиент",
+    "city": "Караганда"
   },
   {
     "client_code": 59,
@@ -1099,7 +1327,11 @@
       "salary_in": 2028752,
       "p2p_out": 1473059
     },
-    "avg_monthly_balance": 4427461
+    "avg_monthly_balance": 4427461,
+    "name": "Динара",
+    "age": 55,
+    "status": "Премиальный клиент",
+    "city": "Алматы"
   },
   {
     "client_code": 60,
@@ -1118,6 +1350,10 @@
       "p2p_out": 1398623,
       "salary_in": 993583
     },
-    "avg_monthly_balance": 48779
+    "avg_monthly_balance": 48779,
+    "name": "Ермек",
+    "age": 42,
+    "status": "Зарплатный клиент",
+    "city": "Кызылорда"
   }
 ]
