@@ -1,0 +1,1123 @@
+[
+  {
+    "client_code": 1,
+    "product_type": "Карта для путешествий",
+    "top_5_category_spending": {
+      "Продукты питания": 645267,
+      "Кафе и рестораны": 518758,
+      "Путешествия": 275434,
+      "Такси": 232520,
+      "Кино": 175385
+    },
+    "top_5_type_spending": {
+      "card_out": 3829952,
+      "salary_in": 1446422,
+      "p2p_out": 1274129,
+      "atm_withdrawal": 617947,
+      "loan_payment_out": 508010
+    },
+    "avg_monthly_balance": 92643
+  },
+  {
+    "client_code": 2,
+    "product_type": "Премиальная карта",
+    "top_5_category_spending": {
+      "Продукты питания": 859627,
+      "Кафе и рестораны": 514370,
+      "Такси": 214919,
+      "Едим дома": 188915,
+      "АЗС": 178437
+    },
+    "top_5_type_spending": {
+      "card_out": 3652001,
+      "p2p_out": 1305706,
+      "salary_in": 1278082,
+      "atm_withdrawal": 775789,
+      "loan_payment_out": 505633
+    },
+    "avg_monthly_balance": 1577073
+  },
+  {
+    "client_code": 3,
+    "product_type": "Карта для путешествий",
+    "top_5_category_spending": {
+      "Продукты питания": 452991,
+      "Кафе и рестораны": 311980,
+      "Такси": 198999,
+      "Смотрим дома": 163277,
+      "Играем дома": 161279
+    },
+    "top_5_type_spending": {
+      "card_out": 1315354,
+      "atm_withdrawal": 759625,
+      "loan_payment_out": 559824,
+      "p2p_out": 496377,
+      "utilities_out": 395641
+    },
+    "avg_monthly_balance": 63116
+  },
+  {
+    "client_code": 4,
+    "product_type": "Кредитная карта",
+    "top_5_category_spending": {
+      "Продукты питания": 646007,
+      "Кафе и рестораны": 522895,
+      "Такси": 247443,
+      "Путешествия": 225775,
+      "Смотрим дома": 182877
+    },
+    "top_5_type_spending": {
+      "card_out": 3312987,
+      "salary_in": 1372776,
+      "p2p_out": 1170718,
+      "atm_withdrawal": 634756,
+      "loan_payment_out": 531517
+    },
+    "avg_monthly_balance": 83351
+  },
+  {
+    "client_code": 5,
+    "product_type": "Премиальная карта",
+    "top_5_category_spending": {
+      "Продукты питания": 709598,
+      "Кафе и рестораны": 423961,
+      "Такси": 285348,
+      "АЗС": 232744,
+      "Играем дома": 232043
+    },
+    "top_5_type_spending": {
+      "card_out": 3344846,
+      "salary_in": 1262119,
+      "p2p_out": 1261805,
+      "atm_withdrawal": 590493,
+      "loan_payment_out": 548044
+    },
+    "avg_monthly_balance": 1336536
+  },
+  {
+    "client_code": 6,
+    "product_type": "Кредитная карта",
+    "top_5_category_spending": {
+      "Продукты питания": 818632,
+      "Кафе и рестораны": 562401,
+      "Такси": 273678,
+      "Отели": 189747,
+      "Кино": 157880
+    },
+    "top_5_type_spending": {
+      "card_out": 3619748,
+      "salary_in": 1378300,
+      "p2p_out": 1331552,
+      "atm_withdrawal": 629866,
+      "loan_payment_out": 481454
+    },
+    "avg_monthly_balance": 131929
+  },
+  {
+    "client_code": 7,
+    "product_type": "Премиальная карта",
+    "top_5_category_spending": {
+      "Продукты питания": 767096,
+      "Кафе и рестораны": 449691,
+      "Косметика и Парфюмерия": 422682,
+      "Такси": 235104,
+      "Играем дома": 200164
+    },
+    "top_5_type_spending": {
+      "card_out": 4110840,
+      "p2p_out": 1572707,
+      "salary_in": 1197031,
+      "atm_withdrawal": 1193728,
+      "loan_payment_out": 987487
+    },
+    "avg_monthly_balance": 4040997
+  },
+  {
+    "client_code": 8,
+    "product_type": "Премиальная карта",
+    "top_5_category_spending": {
+      "Продукты питания": 854311,
+      "Косметика и Парфюмерия": 753654,
+      "Кафе и рестораны": 519214,
+      "Такси": 235529,
+      "АЗС": 231431
+    },
+    "top_5_type_spending": {
+      "card_out": 4048995,
+      "p2p_out": 1730534,
+      "salary_in": 1349955,
+      "atm_withdrawal": 1162883,
+      "loan_payment_out": 942179
+    },
+    "avg_monthly_balance": 1058403
+  },
+  {
+    "client_code": 9,
+    "product_type": "Премиальная карта",
+    "top_5_category_spending": {
+      "Продукты питания": 885923,
+      "Косметика и Парфюмерия": 540939,
+      "Кафе и рестораны": 418366,
+      "Такси": 223280,
+      "Смотрим дома": 199294
+    },
+    "top_5_type_spending": {
+      "card_out": 4138181,
+      "p2p_out": 1825148,
+      "salary_in": 1205500,
+      "atm_withdrawal": 1115664,
+      "loan_payment_out": 934904
+    },
+    "avg_monthly_balance": 3084180
+  },
+  {
+    "client_code": 10,
+    "product_type": "Премиальная карта",
+    "top_5_category_spending": {
+      "Продукты питания": 933186,
+      "Косметика и Парфюмерия": 529594,
+      "Кафе и рестораны": 486289,
+      "АЗС": 231419,
+      "Такси": 198936
+    },
+    "top_5_type_spending": {
+      "card_out": 4160053,
+      "p2p_out": 1774833,
+      "salary_in": 1293311,
+      "atm_withdrawal": 1251711,
+      "loan_payment_out": 789444
+    },
+    "avg_monthly_balance": 1277325
+  },
+  {
+    "client_code": 11,
+    "product_type": "Премиальная карта",
+    "top_5_category_spending": {
+      "Продукты питания": 906326,
+      "Косметика и Парфюмерия": 649008,
+      "Кафе и рестораны": 418664,
+      "Такси": 229448,
+      "АЗС": 182670
+    },
+    "top_5_type_spending": {
+      "card_out": 4168920,
+      "p2p_out": 1499275,
+      "salary_in": 1314291,
+      "atm_withdrawal": 981429,
+      "loan_payment_out": 853197
+    },
+    "avg_monthly_balance": 3230572
+  },
+  {
+    "client_code": 12,
+    "product_type": "Премиальная карта",
+    "top_5_category_spending": {
+      "Продукты питания": 669914,
+      "Кафе и рестораны": 457489,
+      "Косметика и Парфюмерия": 406011,
+      "Такси": 267975,
+      "АЗС": 250371
+    },
+    "top_5_type_spending": {
+      "card_out": 3643053,
+      "p2p_out": 1783810,
+      "salary_in": 1349630,
+      "atm_withdrawal": 1318240,
+      "loan_payment_out": 995748
+    },
+    "avg_monthly_balance": 849046
+  },
+  {
+    "client_code": 13,
+    "product_type": "Кредитная карта",
+    "top_5_category_spending": {
+      "Продукты питания": 463444,
+      "Кафе и рестораны": 294422,
+      "Едим дома": 233224,
+      "Играем дома": 184858,
+      "Смотрим дома": 148290
+    },
+    "top_5_type_spending": {
+      "cc_repayment_out": 2102089,
+      "card_out": 1070652,
+      "installment_payment_out": 780910,
+      "atm_withdrawal": 681709,
+      "loan_payment_out": 594504
+    },
+    "avg_monthly_balance": 54074
+  },
+  {
+    "client_code": 14,
+    "product_type": "Премиальная карта",
+    "top_5_category_spending": {
+      "Продукты питания": 673181,
+      "Кафе и рестораны": 348266,
+      "Едим дома": 271070,
+      "Смотрим дома": 214862,
+      "Играем дома": 208571
+    },
+    "top_5_type_spending": {
+      "card_out": 2663570,
+      "cc_repayment_out": 1715514,
+      "salary_in": 1280378,
+      "p2p_out": 1238723,
+      "installment_payment_out": 988978
+    },
+    "avg_monthly_balance": 57385
+  },
+  {
+    "client_code": 15,
+    "product_type": "Премиальная карта",
+    "top_5_category_spending": {
+      "Продукты питания": 763743,
+      "Кафе и рестораны": 409137,
+      "Едим дома": 229168,
+      "Играем дома": 208545,
+      "Такси": 194645
+    },
+    "top_5_type_spending": {
+      "card_out": 2761540,
+      "cc_repayment_out": 1754916,
+      "p2p_out": 1269939,
+      "salary_in": 1269939,
+      "installment_payment_out": 940757
+    },
+    "avg_monthly_balance": 160778
+  },
+  {
+    "client_code": 16,
+    "product_type": "Кредитная карта",
+    "top_5_category_spending": {
+      "Продукты питания": 371022,
+      "Кафе и рестораны": 300121,
+      "Едим дома": 264133,
+      "Смотрим дома": 168045,
+      "Такси": 146159
+    },
+    "top_5_type_spending": {
+      "cc_repayment_out": 1615713,
+      "card_out": 1033918,
+      "installment_payment_out": 825166,
+      "atm_withdrawal": 739742,
+      "loan_payment_out": 580966
+    },
+    "avg_monthly_balance": 46630
+  },
+  {
+    "client_code": 17,
+    "product_type": "Премиальная карта",
+    "top_5_category_spending": {
+      "Продукты питания": 621877,
+      "Кафе и рестораны": 435343,
+      "Едим дома": 229157,
+      "Играем дома": 193522,
+      "Такси": 183400
+    },
+    "top_5_type_spending": {
+      "card_out": 2555440,
+      "cc_repayment_out": 1864214,
+      "salary_in": 1393149,
+      "p2p_out": 1180852,
+      "installment_payment_out": 807917
+    },
+    "avg_monthly_balance": 89126
+  },
+  {
+    "client_code": 18,
+    "product_type": "Премиальная карта",
+    "top_5_category_spending": {
+      "Продукты питания": 940766,
+      "Кафе и рестораны": 360111,
+      "Едим дома": 304039,
+      "АЗС": 202593,
+      "Такси": 174622
+    },
+    "top_5_type_spending": {
+      "card_out": 2548748,
+      "cc_repayment_out": 1640070,
+      "p2p_out": 1277107,
+      "salary_in": 1226920,
+      "installment_payment_out": 795222
+    },
+    "avg_monthly_balance": 98089
+  },
+  {
+    "client_code": 19,
+    "product_type": "Обмен валют",
+    "top_5_category_spending": {
+      "Продукты питания": 723007,
+      "Кафе и рестораны": 481080,
+      "Такси": 224599,
+      "Смотрим дома": 190955,
+      "АЗС": 185323
+    },
+    "top_5_type_spending": {
+      "fx_buy": 8504899,
+      "card_out": 2669439,
+      "fx_sell": 1552146,
+      "p2p_out": 1339372,
+      "salary_in": 1281364
+    },
+    "avg_monthly_balance": 80150
+  },
+  {
+    "client_code": 20,
+    "product_type": "Обмен валют",
+    "top_5_category_spending": {
+      "Продукты питания": 652076,
+      "Кафе и рестораны": 529111,
+      "Такси": 270102,
+      "Кино": 184175,
+      "Смотрим дома": 167493
+    },
+    "top_5_type_spending": {
+      "fx_buy": 7617028,
+      "card_out": 2456934,
+      "salary_in": 1370996,
+      "fx_sell": 1336071,
+      "p2p_out": 1114629
+    },
+    "avg_monthly_balance": 141515
+  },
+  {
+    "client_code": 21,
+    "product_type": "Премиальная карта",
+    "top_5_category_spending": {
+      "Продукты питания": 685948,
+      "Кафе и рестораны": 535637,
+      "Такси": 248406,
+      "Смотрим дома": 186872,
+      "Кино": 175286
+    },
+    "top_5_type_spending": {
+      "fx_buy": 8420623,
+      "card_out": 2510825,
+      "fx_sell": 1663836,
+      "salary_in": 1331908,
+      "p2p_out": 1249585
+    },
+    "avg_monthly_balance": 1798169
+  },
+  {
+    "client_code": 22,
+    "product_type": "Обмен валют",
+    "top_5_category_spending": {
+      "Продукты питания": 741507,
+      "Кафе и рестораны": 481366,
+      "Такси": 275782,
+      "Кино": 222662,
+      "Смотрим дома": 177541
+    },
+    "top_5_type_spending": {
+      "fx_buy": 7350164,
+      "card_out": 2359595,
+      "fx_sell": 1474910,
+      "p2p_out": 1292588,
+      "salary_in": 1268163
+    },
+    "avg_monthly_balance": 77474
+  },
+  {
+    "client_code": 23,
+    "product_type": "Обмен валют",
+    "top_5_category_spending": {
+      "Продукты питания": 757229,
+      "Кафе и рестораны": 518071,
+      "Такси": 265463,
+      "АЗС": 179133,
+      "Кино": 171860
+    },
+    "top_5_type_spending": {
+      "fx_buy": 7288325,
+      "fx_sell": 3499492,
+      "card_out": 2390024,
+      "salary_in": 1309315,
+      "p2p_out": 1134295
+    },
+    "avg_monthly_balance": 146389
+  },
+  {
+    "client_code": 24,
+    "product_type": "Депозит Мультивалютный",
+    "top_5_category_spending": {
+      "Продукты питания": 879654,
+      "Кафе и рестораны": 546538,
+      "Такси": 259776,
+      "Смотрим дома": 191646,
+      "АЗС": 186831
+    },
+    "top_5_type_spending": {
+      "fx_buy": 7994088,
+      "card_out": 2416368,
+      "fx_sell": 1930580,
+      "p2p_out": 1367340,
+      "salary_in": 1218794
+    },
+    "avg_monthly_balance": 53785
+  },
+  {
+    "client_code": 25,
+    "product_type": "Кредитная карта",
+    "top_5_category_spending": {
+      "Продукты питания": 676328,
+      "Кафе и рестораны": 434371,
+      "Такси": 311411,
+      "Едим дома": 215571,
+      "АЗС": 175295
+    },
+    "top_5_type_spending": {
+      "card_out": 3184521,
+      "salary_in": 1361613,
+      "p2p_out": 1293709,
+      "loan_payment_out": 899862,
+      "atm_withdrawal": 625173
+    },
+    "avg_monthly_balance": 55634
+  },
+  {
+    "client_code": 26,
+    "product_type": "Кредитная карта",
+    "top_5_category_spending": {
+      "Продукты питания": 640304,
+      "Кафе и рестораны": 458055,
+      "Такси": 306369,
+      "Путешествия": 275850,
+      "АЗС": 201952
+    },
+    "top_5_type_spending": {
+      "card_out": 3398769,
+      "salary_in": 1364396,
+      "p2p_out": 1302506,
+      "loan_payment_out": 829076,
+      "atm_withdrawal": 657742
+    },
+    "avg_monthly_balance": 136248
+  },
+  {
+    "client_code": 27,
+    "product_type": "Кредитная карта",
+    "top_5_category_spending": {
+      "Продукты питания": 715011,
+      "Кафе и рестораны": 575846,
+      "Такси": 282137,
+      "Едим дома": 163253,
+      "Кино": 159452
+    },
+    "top_5_type_spending": {
+      "card_out": 3359394,
+      "p2p_out": 1243241,
+      "salary_in": 956197,
+      "loan_payment_out": 910518,
+      "atm_withdrawal": 735482
+    },
+    "avg_monthly_balance": 70858
+  },
+  {
+    "client_code": 28,
+    "product_type": "Кредитная карта",
+    "top_5_category_spending": {
+      "Продукты питания": 670121,
+      "Кафе и рестораны": 472546,
+      "Такси": 264129,
+      "Отели": 203146,
+      "Кино": 176450
+    },
+    "top_5_type_spending": {
+      "card_out": 3171852,
+      "p2p_out": 1414282,
+      "salary_in": 1223291,
+      "loan_payment_out": 944768,
+      "atm_withdrawal": 602732
+    },
+    "avg_monthly_balance": 150281
+  },
+  {
+    "client_code": 29,
+    "product_type": "Кредитная карта",
+    "top_5_category_spending": {
+      "Продукты питания": 896215,
+      "Кафе и рестораны": 513020,
+      "Такси": 318594,
+      "Отели": 175328,
+      "Едим дома": 168496
+    },
+    "top_5_type_spending": {
+      "card_out": 3244228,
+      "p2p_out": 1282777,
+      "salary_in": 960668,
+      "loan_payment_out": 837252,
+      "atm_withdrawal": 598694
+    },
+    "avg_monthly_balance": 88487
+  },
+  {
+    "client_code": 30,
+    "product_type": "Кредитная карта",
+    "top_5_category_spending": {
+      "Продукты питания": 889618,
+      "Кафе и рестораны": 547863,
+      "Такси": 305230,
+      "Играем дома": 174357,
+      "Путешествия": 165133
+    },
+    "top_5_type_spending": {
+      "card_out": 3345692,
+      "salary_in": 1399272,
+      "p2p_out": 1226663,
+      "loan_payment_out": 886491,
+      "atm_withdrawal": 601452
+    },
+    "avg_monthly_balance": 104553
+  },
+  {
+    "client_code": 31,
+    "product_type": "Премиальная карта",
+    "top_5_category_spending": {
+      "Продукты питания": 662092,
+      "Кафе и рестораны": 529321,
+      "Такси": 294796,
+      "АЗС": 247097,
+      "Играем дома": 173909
+    },
+    "top_5_type_spending": {
+      "card_out": 3555545,
+      "p2p_out": 1475665,
+      "salary_in": 1247583,
+      "atm_withdrawal": 811616,
+      "loan_payment_out": 598234
+    },
+    "avg_monthly_balance": 1303848
+  },
+  {
+    "client_code": 32,
+    "product_type": "Премиальная карта",
+    "top_5_category_spending": {
+      "Кафе и рестораны": 1177735,
+      "Продукты питания": 820872,
+      "Такси": 299663,
+      "Едим дома": 191463,
+      "Кино": 179677
+    },
+    "top_5_type_spending": {
+      "card_out": 3145609,
+      "salary_in": 2525366,
+      "p2p_out": 1397208,
+      "atm_withdrawal": 733894,
+      "loan_payment_out": 536185
+    },
+    "avg_monthly_balance": 2317160
+  },
+  {
+    "client_code": 33,
+    "product_type": "Кредитная карта",
+    "top_5_category_spending": {
+      "Продукты питания": 903668,
+      "Кафе и рестораны": 509100,
+      "Такси": 237022,
+      "АЗС": 184962,
+      "Смотрим дома": 184875
+    },
+    "top_5_type_spending": {
+      "card_out": 3552967,
+      "p2p_out": 1335091,
+      "salary_in": 1299296,
+      "atm_withdrawal": 638770,
+      "loan_payment_out": 505892
+    },
+    "avg_monthly_balance": 824246
+  },
+  {
+    "client_code": 35,
+    "product_type": "Премиальная карта",
+    "top_5_category_spending": {
+      "Кафе и рестораны": 1108157,
+      "Продукты питания": 805992,
+      "Такси": 307225,
+      "Смотрим дома": 171871,
+      "Кино": 171361
+    },
+    "top_5_type_spending": {
+      "card_out": 3235919,
+      "salary_in": 2099378,
+      "p2p_out": 1171328,
+      "atm_withdrawal": 671903,
+      "utilities_out": 476956
+    },
+    "avg_monthly_balance": 1448797
+  },
+  {
+    "client_code": 36,
+    "product_type": "Кредитная карта",
+    "top_5_category_spending": {
+      "Продукты питания": 723855,
+      "Кафе и рестораны": 396270,
+      "Такси": 266907,
+      "Играем дома": 197416,
+      "Едим дома": 193635
+    },
+    "top_5_type_spending": {
+      "card_out": 3472031,
+      "p2p_out": 1160603,
+      "salary_in": 1111284,
+      "loan_payment_out": 637234,
+      "atm_withdrawal": 611012
+    },
+    "avg_monthly_balance": 712277
+  },
+  {
+    "client_code": 37,
+    "product_type": "Кредитная карта",
+    "top_5_category_spending": {
+      "Продукты питания": 856357,
+      "Кафе и рестораны": 440338,
+      "Такси": 233716,
+      "Играем дома": 201479,
+      "Едим дома": 172400
+    },
+    "top_5_type_spending": {
+      "card_out": 3311858,
+      "salary_in": 1359242,
+      "p2p_out": 1154447,
+      "atm_withdrawal": 864660,
+      "loan_payment_out": 540972
+    },
+    "avg_monthly_balance": 900361
+  },
+  {
+    "client_code": 38,
+    "product_type": "Премиальная карта",
+    "top_5_category_spending": {
+      "Кафе и рестораны": 1061918,
+      "Продукты питания": 740054,
+      "Такси": 304215,
+      "АЗС": 211893,
+      "Играем дома": 208280
+    },
+    "top_5_type_spending": {
+      "card_out": 3155139,
+      "salary_in": 2276117,
+      "p2p_out": 1179594,
+      "atm_withdrawal": 592620,
+      "utilities_out": 510397
+    },
+    "avg_monthly_balance": 5818675
+  },
+  {
+    "client_code": 39,
+    "product_type": "Кредитная карта",
+    "top_5_category_spending": {
+      "Продукты питания": 664185,
+      "Кафе и рестораны": 498659,
+      "Такси": 247009,
+      "Смотрим дома": 240738,
+      "Кино": 224819
+    },
+    "top_5_type_spending": {
+      "card_out": 3523905,
+      "salary_in": 1265076,
+      "p2p_out": 1226044,
+      "atm_withdrawal": 764053,
+      "loan_payment_out": 555764
+    },
+    "avg_monthly_balance": 1248239
+  },
+  {
+    "client_code": 40,
+    "product_type": "Кредитная карта",
+    "top_5_category_spending": {
+      "Продукты питания": 893489,
+      "Кафе и рестораны": 593461,
+      "Такси": 304917,
+      "Едим дома": 212393,
+      "Играем дома": 134327
+    },
+    "top_5_type_spending": {
+      "card_out": 3308982,
+      "salary_in": 1304718,
+      "p2p_out": 1185247,
+      "loan_payment_out": 538941,
+      "atm_withdrawal": 521237
+    },
+    "avg_monthly_balance": 86092
+  },
+  {
+    "client_code": 41,
+    "product_type": "Премиальная карта",
+    "top_5_category_spending": {
+      "Продукты питания": 852478,
+      "Кафе и рестораны": 517690,
+      "Такси": 249255,
+      "Кино": 238567,
+      "Смотрим дома": 160622
+    },
+    "top_5_type_spending": {
+      "card_out": 3601569,
+      "p2p_out": 1275292,
+      "salary_in": 1225568,
+      "atm_withdrawal": 682503,
+      "loan_payment_out": 510113
+    },
+    "avg_monthly_balance": 1164313
+  },
+  {
+    "client_code": 42,
+    "product_type": "Премиальная карта",
+    "top_5_category_spending": {
+      "Кафе и рестораны": 1194563,
+      "Продукты питания": 851850,
+      "Такси": 344076,
+      "Кино": 206574,
+      "Играем дома": 174262
+    },
+    "top_5_type_spending": {
+      "card_out": 2873765,
+      "salary_in": 2343351,
+      "p2p_out": 1098497,
+      "atm_withdrawal": 706734,
+      "loan_payment_out": 547042
+    },
+    "avg_monthly_balance": 2948028
+  },
+  {
+    "client_code": 43,
+    "product_type": "Премиальная карта",
+    "top_5_category_spending": {
+      "Продукты питания": 851302,
+      "Кафе и рестораны": 419905,
+      "Такси": 217372,
+      "Играем дома": 184513,
+      "Смотрим дома": 178040
+    },
+    "top_5_type_spending": {
+      "card_out": 2953787,
+      "salary_in": 1301557,
+      "p2p_out": 1266875,
+      "deposit_topup_out": 1175431,
+      "atm_withdrawal": 542619
+    },
+    "avg_monthly_balance": 76320
+  },
+  {
+    "client_code": 44,
+    "product_type": "Кредитная карта",
+    "top_5_category_spending": {
+      "Продукты питания": 832844,
+      "Кафе и рестораны": 446361,
+      "Такси": 255734,
+      "Играем дома": 180034,
+      "Едим дома": 149955
+    },
+    "top_5_type_spending": {
+      "card_out": 3191197,
+      "deposit_topup_out": 1429355,
+      "p2p_out": 1309537,
+      "salary_in": 1304860,
+      "atm_withdrawal": 872369
+    },
+    "avg_monthly_balance": 89846
+  },
+  {
+    "client_code": 45,
+    "product_type": "Премиальная карта",
+    "top_5_category_spending": {
+      "Ремонт дома": 1391793,
+      "Ювелирные украшения": 1304269,
+      "Кафе и рестораны": 1264162,
+      "Мебель": 917172,
+      "Продукты питания": 864066
+    },
+    "top_5_type_spending": {
+      "card_out": 3115866,
+      "deposit_topup_out": 1504725,
+      "salary_in": 1304269,
+      "p2p_out": 1199566,
+      "atm_withdrawal": 808379
+    },
+    "avg_monthly_balance": 72552
+  },
+  {
+    "client_code": 46,
+    "product_type": "Кредитная карта",
+    "top_5_category_spending": {
+      "Продукты питания": 825323,
+      "Кафе и рестораны": 454633,
+      "Такси": 229781,
+      "Едим дома": 204533,
+      "Смотрим дома": 195888
+    },
+    "top_5_type_spending": {
+      "card_out": 2988054,
+      "salary_in": 1413307,
+      "deposit_topup_out": 1359978,
+      "p2p_out": 1318813,
+      "atm_withdrawal": 645086
+    },
+    "avg_monthly_balance": 86024
+  },
+  {
+    "client_code": 47,
+    "product_type": "Кредитная карта",
+    "top_5_category_spending": {
+      "Продукты питания": 895965,
+      "Кафе и рестораны": 441532,
+      "Такси": 276636,
+      "Едим дома": 163739,
+      "АЗС": 151367
+    },
+    "top_5_type_spending": {
+      "card_out": 3100598,
+      "deposit_topup_out": 1456715,
+      "p2p_out": 1177670,
+      "salary_in": 1162804,
+      "atm_withdrawal": 688651
+    },
+    "avg_monthly_balance": 79592
+  },
+  {
+    "client_code": 48,
+    "product_type": "Кредитная карта",
+    "top_5_category_spending": {
+      "Продукты питания": 665091,
+      "Кафе и рестораны": 490664,
+      "Такси": 271231,
+      "Едим дома": 205997,
+      "Играем дома": 166279
+    },
+    "top_5_type_spending": {
+      "card_out": 3430837,
+      "deposit_topup_out": 1339436,
+      "salary_in": 1199079,
+      "p2p_out": 1194176,
+      "atm_withdrawal": 871402
+    },
+    "avg_monthly_balance": 82214
+  },
+  {
+    "client_code": 49,
+    "product_type": "Кредитная карта",
+    "top_5_category_spending": {
+      "Продукты питания": 794842,
+      "Кафе и рестораны": 603792,
+      "Такси": 255498,
+      "Кино": 192435,
+      "Едим дома": 185075
+    },
+    "top_5_type_spending": {
+      "invest_out": 3632888,
+      "card_out": 2800718,
+      "salary_in": 1538459,
+      "p2p_out": 1215356,
+      "atm_withdrawal": 767152
+    },
+    "avg_monthly_balance": 1410759
+  },
+  {
+    "client_code": 50,
+    "product_type": "Премиальная карта",
+    "top_5_category_spending": {
+      "Кафе и рестораны": 961465,
+      "Продукты питания": 865997,
+      "Такси": 350643,
+      "Кино": 214599,
+      "Играем дома": 171562
+    },
+    "top_5_type_spending": {
+      "invest_out": 3435715,
+      "card_out": 2491164,
+      "salary_in": 2358671,
+      "p2p_out": 1179331,
+      "atm_withdrawal": 654476
+    },
+    "avg_monthly_balance": 3573697
+  },
+  {
+    "client_code": 51,
+    "product_type": "Кредитная карта",
+    "top_5_category_spending": {
+      "Продукты питания": 714408,
+      "Кафе и рестораны": 427786,
+      "Такси": 242551,
+      "АЗС": 218971,
+      "Едим дома": 210776
+    },
+    "top_5_type_spending": {
+      "invest_out": 4272823,
+      "card_out": 2781474,
+      "salary_in": 1231614,
+      "p2p_out": 1150333,
+      "invest_in": 995735
+    },
+    "avg_monthly_balance": 1429027
+  },
+  {
+    "client_code": 52,
+    "product_type": "Премиальная карта",
+    "top_5_category_spending": {
+      "Кафе и рестораны": 940575,
+      "Продукты питания": 847744,
+      "Такси": 430604,
+      "Едим дома": 169397,
+      "Кино": 156278
+    },
+    "top_5_type_spending": {
+      "invest_out": 3570845,
+      "salary_in": 2618498,
+      "card_out": 2377282,
+      "p2p_out": 1288827,
+      "atm_withdrawal": 673218
+    },
+    "avg_monthly_balance": 3418709
+  },
+  {
+    "client_code": 53,
+    "product_type": "Премиальная карта",
+    "top_5_category_spending": {
+      "Продукты питания": 725480,
+      "Кафе и рестораны": 552325,
+      "Такси": 315007,
+      "Едим дома": 203272,
+      "Играем дома": 165529
+    },
+    "top_5_type_spending": {
+      "card_out": 2965458,
+      "invest_out": 2786356,
+      "p2p_out": 1247900,
+      "salary_in": 964943,
+      "invest_in": 689604
+    },
+    "avg_monthly_balance": 1258584
+  },
+  {
+    "client_code": 54,
+    "product_type": "Премиальная карта",
+    "top_5_category_spending": {
+      "Кафе и рестораны": 1161255,
+      "Продукты питания": 903536,
+      "Отели": 543001,
+      "Такси": 360849,
+      "АЗС": 181374
+    },
+    "top_5_type_spending": {
+      "invest_out": 3464681,
+      "card_out": 2706713,
+      "salary_in": 2555636,
+      "p2p_out": 1324541,
+      "atm_withdrawal": 748077
+    },
+    "avg_monthly_balance": 4083294
+  },
+  {
+    "client_code": 55,
+    "product_type": "Премиальная карта",
+    "top_5_category_spending": {
+      "Продукты питания": 855245,
+      "Кафе и рестораны": 852622,
+      "Такси": 311304,
+      "Едим дома": 191938,
+      "Кино": 160122
+    },
+    "top_5_type_spending": {
+      "gold_buy_out": 4500000,
+      "gold_sell_in": 3158855,
+      "card_out": 2944256,
+      "salary_in": 2695600,
+      "p2p_out": 1366965
+    },
+    "avg_monthly_balance": 3504443
+  },
+  {
+    "client_code": 56,
+    "product_type": "Кредитная карта",
+    "top_5_category_spending": {
+      "Продукты питания": 826215,
+      "Кафе и рестораны": 541119,
+      "Отели": 224207,
+      "Такси": 211081,
+      "Смотрим дома": 189312
+    },
+    "top_5_type_spending": {
+      "gold_sell_in": 4255291,
+      "gold_buy_out": 3659602,
+      "card_out": 3099039,
+      "salary_in": 1351628,
+      "p2p_out": 1350424
+    },
+    "avg_monthly_balance": 60622
+  },
+  {
+    "client_code": 57,
+    "product_type": "Премиальная карта",
+    "top_5_category_spending": {
+      "Кафе и рестораны": 1065349,
+      "Продукты питания": 846678,
+      "Такси": 306035,
+      "Играем дома": 190790,
+      "Кино": 161813
+    },
+    "top_5_type_spending": {
+      "gold_sell_in": 4500000,
+      "gold_buy_out": 3616136,
+      "card_out": 3104351,
+      "salary_in": 2657353,
+      "p2p_out": 1116686
+    },
+    "avg_monthly_balance": 2757704
+  },
+  {
+    "client_code": 58,
+    "product_type": "Кредитная карта",
+    "top_5_category_spending": {
+      "Продукты питания": 928689,
+      "Кафе и рестораны": 443006,
+      "Такси": 214580,
+      "Кино": 212897,
+      "Играем дома": 180956
+    },
+    "top_5_type_spending": {
+      "gold_sell_in": 3746347,
+      "card_out": 3436680,
+      "gold_buy_out": 2965472,
+      "salary_in": 1263173,
+      "p2p_out": 1228646
+    },
+    "avg_monthly_balance": 62335
+  },
+  {
+    "client_code": 59,
+    "product_type": "Премиальная карта",
+    "top_5_category_spending": {
+      "Продукты питания": 1006297,
+      "Кафе и рестораны": 948785,
+      "Едим дома": 262433,
+      "Такси": 243959,
+      "АЗС": 233195
+    },
+    "top_5_type_spending": {
+      "gold_buy_out": 3608033,
+      "gold_sell_in": 3374213,
+      "card_out": 3130922,
+      "salary_in": 2028752,
+      "p2p_out": 1473059
+    },
+    "avg_monthly_balance": 4427461
+  },
+  {
+    "client_code": 60,
+    "product_type": "Премиальная карта",
+    "top_5_category_spending": {
+      "Продукты питания": 713520,
+      "Кафе и рестораны": 549140,
+      "Такси": 256746,
+      "Смотрим дома": 163666,
+      "Играем дома": 157907
+    },
+    "top_5_type_spending": {
+      "gold_buy_out": 3700691,
+      "gold_sell_in": 3445419,
+      "card_out": 3289470,
+      "p2p_out": 1398623,
+      "salary_in": 993583
+    },
+    "avg_monthly_balance": 48779
+  }
+]
