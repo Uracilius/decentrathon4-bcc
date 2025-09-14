@@ -617,7 +617,7 @@ def main():
             continue
         results.append({"client_code": client_code, **res})
     
-    output_path = os.path.join(os.path.dirname(__file__), "product_classification.json")
+    output_path = os.path.join(os.path.dirname(__file__), 'processed', "product_classification.json")
     with open(output_path, "w", encoding="utf-8") as f:
         json.dump(results, f, ensure_ascii=False, indent=2)
     
